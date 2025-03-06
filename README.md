@@ -1,6 +1,6 @@
 ## Hey there! 👋
 
-*Welcome to my GitHub profile! I'm Æryan, a passionate developer always exploring new technologies and improving my skills. Check out my tech stack below! 🚀*
+*Welcome to my GitHub profile! I'm Æryan, a passionate developer always exploring new tech and improving my skills. Check out my tech stack below! 🚀*
 
 
 
