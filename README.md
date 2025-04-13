@@ -1,5 +1,6 @@
 ## Hey there! 👋
-
+![](https://komarev.com/ghpvc/?username=your-github-Aryan-0001&color=blue&style=plastic)
+<br>
 *Welcome to my GitHub profile! I'm Æryan, a passionate developer always exploring new tech and improving my skills. Check out my tech stack below! 🚀*
 
 
