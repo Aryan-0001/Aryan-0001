@@ -3,7 +3,7 @@
 <img src="https://komarev.com/ghpvc/?username=your-github-Aryan-0001&color=green&style=plastic" width="150" height="60">
 </p>
 
-### *Welcome to my GitHub profile! I'm Æryan, a passionate developer always exploring new tech and improving my skills. Check out my tech stack below! 🚀*
+### *Welcome to my GitHub profile! I'm Æryan, always exploring new tech and improving my skills. Check out my tech stack below! 🚀*
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-0001&layout=compact&theme=tokyonight" alt="Top Languages" width="500" height="250"/> 
 
 <p align="center>
@@ -11,7 +11,7 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aryan-0001&theme=tokyonight">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aryan-0001&theme=tokyonight">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aryan-0001&theme=tokyonight">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aryan-0001&theme=tokyonight&utcOffset=8">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aryan-0001&theme=tokyonight&utcOffset=5.5">
 </p>
 
 ## **Tech Stack**
