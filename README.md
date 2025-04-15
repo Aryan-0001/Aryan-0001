@@ -1,6 +1,6 @@
 ## Hey there! 👋
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=your-github-Aryan-0001&color=green&style=plastic" width="150" height="60">
+<img src="https://komarev.com/ghpvc/?username=your-github-Aryan-0001&color=green&style=plastic" width="190" height="45">
 </p>
 
 ### *Welcome to my GitHub profile! I'm Æryan, always exploring new tech and improving my skills. Check out my tech stack below! 🚀*
