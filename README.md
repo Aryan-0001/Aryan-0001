@@ -32,3 +32,8 @@
 <a href="https://www.linkedin.com/in/aryan-n-4251bb249/" target="_blank">🔗LinkedIn</a>
 <br>
 <a href="https://www.instagram.com/aryann_.0101/" target="_blank">🔗INSTA</a>
+
+<br>
+
+### **Quote**
+ > *<h1>Debugging is like being the detective in a crime movie where you are also the murderer.</h1>*
