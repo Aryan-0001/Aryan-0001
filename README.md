@@ -29,9 +29,8 @@
 
 ### **SOCIALS**
 
-<a href="https://www.linkedin.com/in/aryan-n-4251bb249/" target="_blank">🔗LinkedIn</a>
-<br>
-<a href="https://www.instagram.com/aryann_.0101/" target="_blank">🔗INSTA</a>
+## [🔗LinkedIn](https://www.linkedin.com/in/aryan-n-4251bb249/)
+## [🔗INSTA](https://www.instagram.com/aryann_.0101/)
 
 <br>
 
