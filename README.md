@@ -12,7 +12,7 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aryan-0001&theme=tokyonight">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aryan-0001&theme=nord_dark">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aryan-0001&theme=zenburn" width="360" height="210">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aryan-0001&theme=zenburn&utcOffset=5.5" width="height="170">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aryan-0001&theme=zenburn&utcOffset=5.3" width="height="170">
 </p>
 
 ## **Tech Stack**
