@@ -15,8 +15,11 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aryan-0001&theme=zenburn&utcOffset=5.3" width="height="170">
 </p>
 
-### *LeetCode Stats*
+<p align="center">
+<h3>LeetCode Stats</h3>
 <img src="https://leetcard.jacoblin.cool/aryann_0101?theme=dark&font=tokyonight&ext=heatmap">
+</p>
+
 
 ## **Tech Stack**
 
