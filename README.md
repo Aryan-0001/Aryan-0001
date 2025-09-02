@@ -4,7 +4,7 @@
 </p>
 
 ### *Welcome to my GitHub profile! I'm Æryan, always exploring new tech and improving my skills. Check out my tech stack below! 🚀*
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-0001&layout=compact&theme=dracula" alt="Top Languages" width="500" height="250"/> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-0001&layout=compact&theme=tokyonight" alt="Top Languages" width="500" height="250"/> 
 
 
 <p align="center>
@@ -36,7 +36,6 @@
 ### **SOCIALS**
 
 ## [🔗LinkedIn](https://www.linkedin.com/in/aryan-n-4251bb249/)
-## [🔗INSTA](https://www.instagram.com/aryann_.0101/)
 
 <br>
 
