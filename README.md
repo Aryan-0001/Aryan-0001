@@ -6,6 +6,7 @@
 ### *Welcome to my GitHub profile! I'm Æryan, always exploring new tech and improving my skills. Check out my tech stack below! 🚀*
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-0001&layout=compact&theme=tokyonight" alt="Top Languages" width="500" height="250"/> 
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=24&pause=200&color=00FF00&center=true&vCenter=true&width=750&lines=Final+Year+CSE+Student;Specializing+in+AI+%26+ML;Building+J.A.R.V.I.S+AI+Assistant;Creator+of+Celestify+%28Astronomy+App%29;Linux+Enthusiast+🐧;Astrophotography+Enthusiast+✨;" />
 
 <p align="center>
 <br>
