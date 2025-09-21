@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=24&pause=200&color=00FF00&center=true&vCenter=true&width=750&lines=Final+Year+CSE+Student;Specializing+in+AI+%26+ML;Building+JARVIS+AI;Linux+Enthusiast+🐧;Astrophotography+Enthusiast+✨;" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=24&pause=200&color=00FF00&center=true&vCenter=true&width=750&lines=Final+Year+CSE+Student;Specializing+in+AI+%26+ML;Building+real+-+world+solutions+.+.+.;Exploring+LLMs+and+automation+.;Building+Interesting+side+projects+like+JARVIS+AI;Linux+Enthusiast+🐧;Astrophotography+Enthusiast+✨;" />
 
 </p>
 
