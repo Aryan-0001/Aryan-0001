@@ -9,15 +9,17 @@
 </p>
 
 # *Welcome to my profile! Check out my tech stack below !🚀*
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-0001&layout=compact&theme=tokyonight" alt="Top Languages" width="500" height="250"/> 
-
 <p align="center>
 <br>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aryan-0001&theme=tokyonight">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aryan-0001&theme=nord_dark">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aryan-0001&theme=zenburn" width="360" height="210">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aryan-0001&theme=zenburn&utcOffset=5.3" width="height="170">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-0001&layout=compact&theme=tokyonight" alt="Top Languages" width="500" height="250"/> 
+
 </p>
+
+---
 
 <p align="center">
 <h3>LeetCode Stats</h3>
