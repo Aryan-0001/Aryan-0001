@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=24&pause=500&color=00FF00&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub+profile+!!;I'm+Æryan,+always+exploring+new+tech+🧑‍💻;Check+out+my+tech+stack+below+!+🚀;Final+Year+CSE+Student;Specializing+in+AI+%26+ML;Building+real+-+world+solutions+.+.+.;Exploring+LLMs+and+automation+.;Building+Interesting+side+projects+like+JARVIS+AI;Linux+Enthusiast+🐧;Astrophotography+Enthusiast+✨;" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=24&pause=500&color=00FF00&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub+profile+!!;I'm+Æryan,+always+exploring+new+tech+🧑‍💻;Check+out+my+tech+stack+below+!+🚀;Final+Year+CSE+Student;Specializing+in+AI+%26+ML;Building+real+-+world+solutions+.+.+.;Exploring+LLMs+and+automation+.;Building+Interesting+side+projects+.+.+.;Linux+Enthusiast+🐧;Astrophotography+Enthusiast+✨;" />
 
 </p>
 
